@@ -1,0 +1,10 @@
+C:\Personal\PokerHandCalculator\PokerHandCalculator\bin\Debug\PokerHandCalculator.exe
+C:\Personal\PokerHandCalculator\PokerHandCalculator\bin\Debug\PokerHandCalculator.pdb
+C:\Personal\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.csprojResolveAssemblyReference.cache
+C:\Personal\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.exe
+C:\Personal\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.pdb
+C:\Users\kevpo\Desktop\PokerHandCalculator\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.exe
+C:\Users\kevpo\Desktop\PokerHandCalculator\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.pdb
+C:\Users\kevpo\Desktop\PokerHandCalculator\PokerHandCalculator\PokerHandCalculator\bin\Debug\PokerHandCalculator.exe
+C:\Users\kevpo\Desktop\PokerHandCalculator\PokerHandCalculator\PokerHandCalculator\bin\Debug\PokerHandCalculator.pdb
+C:\Users\kevpo\Desktop\PokerHandCalculator\PokerHandCalculator\PokerHandCalculator\obj\Debug\PokerHandCalculator.csprojResolveAssemblyReference.cache

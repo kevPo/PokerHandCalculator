@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandCalculator", "PokerHandCalculator\PokerHandCalculator.csproj", "{536310D3-76B1-4A28-8255-FC0230F9F4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandCalculatorTests", "PokerHandCalculatorTests\PokerHandCalculatorTests.csproj", "{52E0E448-5859-4959-82FA-3CC0318D6C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536310D3-76B1-4A28-8255-FC0230F9F4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536310D3-76B1-4A28-8255-FC0230F9F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536310D3-76B1-4A28-8255-FC0230F9F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536310D3-76B1-4A28-8255-FC0230F9F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E0E448-5859-4959-82FA-3CC0318D6C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E0E448-5859-4959-82FA-3CC0318D6C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E0E448-5859-4959-82FA-3CC0318D6C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E0E448-5859-4959-82FA-3CC0318D6C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
